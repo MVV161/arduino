@@ -5,7 +5,7 @@
     B = backward
 */
 #include <Servo.h> 
-int pinLB = 12;     // define pin 12 
+int pinLB = 12;     // define pin 12 .
 int pinLF = 3;     // define pin 3 
 int pinRB = 13;    // define pin 13 
 int pinRF = 11;    // define pin 11 
